@@ -1,0 +1,80 @@
+#fonte{
+
+background-color: #120632;
+font-family: Georgia;
+text-align: center;
+color: #00a8ff;
+
+}
+
+.principal{
+  
+font-family: Georgia;
+color: #120632;
+font-size: 4;
+font-style: strong;
+
+}
+
+.estilo
+
+{
+
+font-family: Georgia;
+font-size: 4;
+color: #120632;
+font-style: strong;
+align-self: center;
+text-align: center;
+
+}
+
+
+img{
+
+width: 400px;
+height: 320px;
+
+}
+
+.imagem
+{
+ 
+     
+ width: 50px;
+ height: 50px;
+     
+}
+
+#hr
+{
+
+width: 100%;
+border: 5px solid #120632;
+
+
+
+}
+
+
+
+
+
+.escopo
+{
+ 
+text-align: center;
+
+}
+
+
+.espaco{
+
+text-align: right;
+color: white;
+
+}
+
+
+
+
